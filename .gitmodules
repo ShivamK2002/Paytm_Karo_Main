@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/ShivamK2002/paytm_karo_frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/ShivamK2002/paytm_karo_backend
